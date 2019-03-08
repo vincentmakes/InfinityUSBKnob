@@ -1,4 +1,6 @@
-//updated 7marMacOs
+//Author:@vincentmakes
+//Instructions:https://hackaday.io/project/164043-the-infinity-usb-knob
+//GNU Licence
 
 #include "HID-Project.h"
 #include "Adafruit_NeoPixel.h"
